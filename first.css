@@ -1,10 +1,12 @@
-body{
-    border: 2px solid black;
-}
-p{
-    font-size: 20px;
-    font-weight: bold;
-    color: beige;
-    background-color: red;
-    border: 3px solid rgb(26, 47, 239);
-}
+/* custom-styles.css */
+body {
+    background-color: #f0f0f0;
+    color: red;
+  }
+  
+  h1 {
+    color: #2c3e50;
+    font-family: 'Arial', sans-serif;
+    background-color: green;
+  }
+  
